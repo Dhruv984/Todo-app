@@ -5,7 +5,7 @@
         <div>
             <button onClick={()=>{
                 props.handleEdit(props.id)
-            }}>Edit todo</button>
+            }}>Edit Todo</button>
         </div>
      )
  }
